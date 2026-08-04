@@ -1,6 +1,6 @@
 # CATALYST-PROTOTYPE
 
 Website deployed on netlify - link below
-https://tubular-cucurucho-0f9211.netlify.app 
+catalyst-webproto.netlify.app
 
 The Website was made using claude and was deployed through Netlify
